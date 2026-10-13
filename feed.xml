@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
 <title>GTD Daily Brief</title>
 <link>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/</link>
-<description>Troy's daily GTD brief</description>
+<description>Troy's daily GTD correspondence brief, spoken summary.</description>
+<language>en-au</language>
+<itunes:author>Troy Smalley</itunes:author>
+<itunes:summary>Troy's daily GTD correspondence brief, spoken summary.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Personal Journals"/>
+<itunes:owner>
+<itunes:name>Troy Smalley</itunes:name>
+<itunes:email>troyjosephsmalley@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/artwork/cover.jpg"/>
+<image>
+<url>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/artwork/cover.jpg</url>
+<title>GTD Daily Brief</title>
+<link>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/</link>
+</image>
 <item>
 <title>GTD brief - test</title>
+<description>Test episode used to verify the feed pipeline.</description>
 <enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/test.mp3" length="79104" type="audio/mpeg"/>
 <pubDate>Tue, 13 Oct 2026 07:00:00 +1100</pubDate>
-<guid>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/test.mp3</guid>
+<guid isPermaLink="false">https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/test.mp3</guid>
+<itunes:explicit>false</itunes:explicit>
 </item>
-</channel></rss>
+</channel>
+</rss>
