@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel>
-<title>GTD Daily Brief</title>
-<link>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/</link>
-<description>Troy Smalley's daily GTD correspondence and planning brief.</description>
-<language>en-au</language>
-<itunes:author>Troy Smalley</itunes:author>
-<itunes:owner><itunes:name>Troy Smalley</itunes:name><itunes:email>troyjosephsmalley@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/artwork/cover.jpg"/>
-<itunes:category text="Personal Journals"/>
-<itunes:explicit>false</itunes:explicit>
-<image><url>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/artwork/cover.jpg</url><title>GTD Daily Brief</title><link>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/</link></image>
-<item><title>GTD brief — Friday 16 October 2026</title><description>Decisions, next actions, deadlines, calendar and exceptions for Friday 16 October 2026.</description><pubDate>Thu, 15 Oct 2026 20:00:24 GMT</pubDate><enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/2026-10-16.mp3" length="600384" type="audio/mpeg"/><guid isPermaLink="false">gtd-daily-brief-2026-10-16</guid></item>
-<item><title>GTD brief — Thursday 15 October 2026</title><description>Daily GTD correspondence and planning brief for Thursday 15 October 2026.</description><pubDate>Wed, 14 Oct 2026 20:00:00 GMT</pubDate><enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/2026-10-15.mp3" length="672576" type="audio/mpeg"/><guid isPermaLink="false">gtd-daily-brief-2026-10-15</guid></item>
-<item><title>GTD brief — Wednesday 14 October 2026</title><description>Daily GTD correspondence and planning brief for Wednesday 14 October 2026.</description><pubDate>Tue, 13 Oct 2026 20:00:00 GMT</pubDate><enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/2026-10-14.mp3" length="673536" type="audio/mpeg"/><guid isPermaLink="false">gtd-daily-brief-2026-10-14</guid></item>
-</channel>
+  <channel>
+    <title>GTD Daily Brief</title>
+    <link>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/</link>
+    <description>Troy Smalley's concise daily GTD briefing.</description>
+    <language>en-au</language>
+    <itunes:author>Troy Smalley</itunes:author>
+    <itunes:owner>
+      <itunes:name>Troy Smalley</itunes:name>
+      <itunes:email>troyjosephsmalley@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/artwork/cover.jpg"/>
+    <itunes:category text="Personal Journals"/>
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/artwork/cover.jpg</url>
+      <title>GTD Daily Brief</title>
+      <link>https://troyjosephsmalley-prog.github.io/gtd-daily-brief/</link>
+    </image>
+    <item>
+      <title>GTD Daily Brief — 2026-10-18</title>
+      <description>GTD brief for 18 October 2026: decisions, next actions, deadlines and exceptions.</description>
+      <pubDate>Sun, 18 Oct 2026 07:00:31 +1100</pubDate>
+      <enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/2026-10-18.mp3" length="690240" type="audio/mpeg"/>
+      <guid isPermaLink="false">gtd-daily-brief-2026-10-18</guid>
+    </item>
+    <item>
+      <title>GTD Daily Brief — 2026-10-16</title>
+      <description>GTD brief for 16 October 2026.</description>
+      <pubDate>Fri, 16 Oct 2026 07:00:24 +1100</pubDate>
+      <enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/2026-10-16.mp3" length="600384" type="audio/mpeg"/>
+      <guid isPermaLink="false">gtd-daily-brief-2026-10-16</guid>
+    </item>
+    <item>
+      <title>GTD Daily Brief — 2026-10-15</title>
+      <description>GTD brief for 15 October 2026.</description>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +1100</pubDate>
+      <enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/2026-10-15.mp3" length="672576" type="audio/mpeg"/>
+      <guid isPermaLink="false">gtd-daily-brief-2026-10-15</guid>
+    </item>
+    <item>
+      <title>GTD Daily Brief — 2026-10-14</title>
+      <description>GTD brief for 14 October 2026.</description>
+      <pubDate>Wed, 14 Oct 2026 12:05:42 +1100</pubDate>
+      <enclosure url="https://troyjosephsmalley-prog.github.io/gtd-daily-brief/audio/2026-10-14.mp3" length="673536" type="audio/mpeg"/>
+      <guid isPermaLink="false">gtd-daily-brief-2026-10-14</guid>
+    </item>
+  </channel>
 </rss>
